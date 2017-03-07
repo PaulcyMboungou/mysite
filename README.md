@@ -1,0 +1,2 @@
+# mysite
+Enjoying django
